@@ -16,14 +16,15 @@
 - **H5端**: [ai.umi6.com/h5](http://ai.umi6.com/h5)
 
 ## 导航
-| 模块名称 | 链接 | 介绍|
-| -------- | ---- |---- |
-| 前端PC | [umi_platform_frontend](https://github.com/ymzn3820/umi_platform_frontend) | PC端前段代码仓库地址|
-| 小程序端 | [umi_platform_mini_program](https://github.com/ymzn3820/umi_platform_mini_program) |小程序端代码仓库地址|
-| H5端 | [umi_platform_h5](https://github.com/ymzn3820/umi_platform_h5) |H5端代码仓库地址|
-| 支付模块 | [umi_platform_pay_module](https://github.com/ymzn3820/umi_platform_pay_module) |支付模块代码仓库地址|
-| 用户模块 | [umi_platform_user_module](https://github.com/ymzn3820/umi_platform_user_module) |用户模块代码仓库地址|
-| Chat模块 | [umi_platform_chat_module](https://github.com/ymzn3820/umi_platform_chat_module) |Chat模块代码仓库地址|
+| 模块名称    | 链接                                                                                 | 介绍           |
+|---------|------------------------------------------------------------------------------------|--------------|
+| 前端PC    | [umi_platform_frontend](https://github.com/ymzn3820/umi_platform_frontend)         | PC端前段代码仓库地址  |
+| 小程序端    | [umi_platform_mini_program](https://github.com/ymzn3820/umi_platform_mini_program) | 小程序端代码仓库地址   |
+| H5端     | [umi_platform_h5](https://github.com/ymzn3820/umi_platform_h5)                     | H5端代码仓库地址    |
+| 支付模块    | [umi_platform_pay_module](https://github.com/ymzn3820/umi_platform_pay_module)     | 支付模块代码仓库地址   |
+| 用户模块    | [umi_platform_user_module](https://github.com/ymzn3820/umi_platform_user_module)   | 用户模块代码仓库地址   |
+| Chat模块  | [umi_platform_chat_module](https://github.com/ymzn3820/umi_platform_chat_module)   | Chat模块代码仓库地址 |
+| Bill模块 | [umi_platform_bill_module](https://github.com/ymzn3820/umi_platform_bill_module)   | Bill模块代码仓库地址 |
 
 
 ## 功能模块
